@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nedergard",
+			"Nike",
+			"Str4nd",
+			"McSalama",
+			"01miki10"
+		]
+	},
+	"modern.css": "/* Tämä sivu sisältää Moderni-ulkoasua muuttavia tyylejä. */",
+	"modern.js": "/* Tämän sivun JavaScript-koodi liitetään Moderni-tyyliin */",
+	"skinname-modern": "Moderni",
+	"modern-desc": "Siniharmaa ulkoasu sivu- ja yläpalkilla. Muunnettu MonoBookista"
+}
